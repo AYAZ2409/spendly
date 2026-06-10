@@ -5,7 +5,11 @@
       "WebSearch",
       "Bash(git init)",
       "Bash(curl -s http://127.0.0.1:5001/terms)",
-      "Bash(curl -s http://127.0.0.1:5001/privacy)"
+      "Bash(curl -s http://127.0.0.1:5001/privacy)",
+      "Bash(git push *)",
+      "Bash(lsof *)",
+      "Bash(curl -s http://127.0.0.1:5001/ -o /dev/null -w \"%{http_code}\\\\n\")",
+      "Bash(curl -s http://127.0.0.1:5001/static/css/landing.css -o /dev/null -w \"landing.css: %{http_code}\\\\n\")"
     ]
   }
 }
