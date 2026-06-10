@@ -4,7 +4,8 @@
       "Bash(uv add *)",
       "WebSearch",
       "Bash(git init)",
-      "Bash(curl -s http://127.0.0.1:5001/terms)"
+      "Bash(curl -s http://127.0.0.1:5001/terms)",
+      "Bash(curl -s http://127.0.0.1:5001/privacy)"
     ]
   }
 }
